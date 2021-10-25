@@ -21,3 +21,14 @@ From experience I felt that I could intuit the user's experience and that perspe
 I begin the project with all required design materials re-assembled personally from the original materials and the disparate sources that it's compiled from, this way, it's "my" program before I get started, made my way but composed of what someone else has contracted me to produce. When working with a team, scrum meetings feel the most necessary, especially if there is no prior relationship between the team members, it'll help establish a rapport and with that trust, a more effective team.
 
 Communication, a team that can't rely on each other isn't a team, they're a group of individuals who can much more easily fail from trying to take on too much essentially alone.
+
+
+10/24/21    A man named Liam was the head of a company called DriverPass and he wanted an app developed by that same name that would perform certain functions. While Liam was not particulary computer savvy; he wanted to access all his files through the app with and without internet access for example, he still though, knew what he wanted.
+
+    He wanted a system that would offer a network version of the in-person experience of working with DriverPass; taking tests and scheduling appointments in particular. My design, after gathering the client's list of wants was a minimal framework for accessing the test packages and scheduling revervations. I felt that a simple design would be best, first in principle, but also for the client, whose requests imply a leaner design philosophy.
+    
+    I brought up their lack of requests, and I would expect that the final design will include some DriverPass graphics/images to dress up the pages of the application. Revise isn't quite the word, I would be "furthering my design", in my mind, I see myself adding .png images and maybe a few videos to the DriverPass framework that I laid down.
+    
+The client's requirements ARE the program, and I follow their requests to the letter.
+    
+    Overall, i build programs to the requirements of the design outline. I was already sketching outlines for what I was going to build before this class, I'm originally a self taught programmer, so I will continue to respect my program's requirements and it's outline, also, don't forget to comment your work.  
