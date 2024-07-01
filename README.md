@@ -61,3 +61,10 @@ CS 360 12/17/22 - I chose to develop an app for keeping track of your weight los
     How did I approach the coding? Last, ha, but in truth I just remembered that coding on some level comes down to functions, loops, variables, and if/then statements and began building from there. Each one of these classes remind that I need to get out of my own head when coding as an assignment and that I should just write; I know what I'm doing, even so, I often let the assignment and the deadline throw me off my game. 
     
     Debugging after being sure the program will compile is my process of testing the code, apart from being mindful of missing functionality. Since you've got a checklist of required/desired features, it's important to remember what they are and account for them in the program's design. Learning to work with Android Studio was the biggest challenge, which was disconcerting since any "studio" app to me implies that it's meant to be more convenient to use than building an entire program from "scratch", so that was a challenge. I would say just getting it built under these conditions shows off my skills.
+
+6/30/24 - I'm nearing the end of my degree program, and here I took the first half of a full stack development course, I was asked to respond to a few questions.
+
+compare and contrast express HTML, javascript, and SPA
+    Express is used through Node.js and allows for server-side rendering of HTML content this HTML content can even be dynamically generated. Compare that to javascript which is versatile enough to be used either server or client-side, javascript can create interactive elements and handle user events, both on the frontend side. The DOM can be manipulated to dynamically change the content the user sees, the structure, and style of a webpage. SPA is the simplest of the three that loads a single HTML page, of the three it can also load elements dynamically, due to it's nature SPA can be faster and smoother. Mongo was used on the backend of it's to understand.
+    
+ - 6/30/24
